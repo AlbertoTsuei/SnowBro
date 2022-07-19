@@ -6,7 +6,7 @@
       data-aos="zoom-in"
       data-aos-duration="1200"
     >
-      啟程<br />滑向下一個可能
+      啟程<br/>滑向下一個可能
     </h2>
     <button
       type="button"
