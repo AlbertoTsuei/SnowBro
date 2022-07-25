@@ -2,7 +2,7 @@
 
 [DEMO](https://albertotsuei.github.io/SnowBro/#/)
 
-由於自己熱愛滑雪，瘋狂的時候每週都開車單程2.5小時的車去雪場報到。
+由於熱愛滑雪，瘋狂的時候每週都開單程2.5小時的車去雪場報到！
 
 因此想藉著喜愛的主題，製作一滑雪用具電商平台。
 
@@ -26,9 +26,10 @@
 ◎ ESLint 規範管理程式品質
 
 ### 前台功能：
-![image](https://user-images.githubusercontent.com/87654961/178747806-04b2fbe0-0dd8-4063-904f-b6f99402505c.png)
 
-![image](https://user-images.githubusercontent.com/87654961/178747909-fd027598-ac1d-4167-8385-edc293d401ca.png)
+![image](https://user-images.githubusercontent.com/87654961/180825324-0fad73c4-9066-456b-ab20-7319b7fa1d8c.png)
+
+![image](https://user-images.githubusercontent.com/87654961/178747806-04b2fbe0-0dd8-4063-904f-b6f99402505c.png)
 
 
 1. 商品一覽表
@@ -53,6 +54,8 @@
 4. 優惠券 CRUD 
 
 5. 貼文管理
+
+![image](https://user-images.githubusercontent.com/87654961/180824941-294d345c-dbdf-49f9-947d-32e23ad9c2c4.png)
 
 ![Admin](https://user-images.githubusercontent.com/87654961/178747494-d3e70413-9baf-44b0-b1e7-aaeb5c8395b4.png)
 
