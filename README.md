@@ -2,6 +2,9 @@
 
 [DEMO](https://albertotsuei.github.io/SnowBro/#/)
 
+由於自己熱愛滑雪，瘋狂的時候每週都開車單程2.5小時的車去雪場報到。
+因此想藉著喜愛的主題，製作一滑雪用具電商平台。
+
 使用 Vue 設計具RWD的SPA 滑雪用品購物網，有商品列表、購物車、結帳表單系統、優惠券、後台管理、文章編輯器等功能。
 
 ![首頁](https://user-images.githubusercontent.com/87654961/178746595-d13c434d-5d3f-4942-babc-cc216b9cf3cd.jpg)
